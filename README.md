@@ -20,12 +20,16 @@ This is a suggestion to write HTML with complicated logic in a better way, a sug
 ## Requirements
 
 ```
-Scala >= 2.13.5
+3.0 >= Scala >= 2.13.5
 ```
 
 ## Installation
 
-WORKING...
+Add the line below to `build.sbt`.
+
+```
+libraryDependencies += "io.github.yrichika" %% "scalahtml" % "0.1.1"
+```
 
 
 ---

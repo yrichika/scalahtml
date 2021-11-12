@@ -5,8 +5,7 @@ version := "0.1.0"
 scalaVersion := "2.13.5"
 crossScalaVersions := Seq(
   "2.13.5",
-  "3.0.1",
-  "3.1.0"
+  "3.0.1"
 )
 
 libraryDependencies ++= Seq(
